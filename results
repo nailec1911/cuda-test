@@ -1,0 +1,6 @@
+run cpu : 1.2523
+
+run gpu 1t : 51,805,812,677ns, 51s
+run gpu 256t : 1,811,303,434ns  1.8s
+run gpu 256t blocks : 1,778,551,739  1.7s
+run gpu 256t blocks prefetch : 4,740,106  4ms
